@@ -1,3 +1,8 @@
+This is a fork of https://github.com/miah/chef-collectd.
+This repository is no longer available but we currently have a dependency on it, hence this (temporary) fork.
+
+
+
 DEPRECATION NOTICE
 
 I am no longer working on this cookbook. If you find it useful fork it. Issues are closed.
