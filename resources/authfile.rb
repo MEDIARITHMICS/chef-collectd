@@ -17,7 +17,7 @@
 actions :create, :remove
 default_action :create
 
-attribute :username, :kind_of => String, :name_attribute => true, :default => nil
+attribute :username, :kind_of => String, :default => true, :default => nil
 attribute :password, :kind_of => String, :default => nil
 attribute :template, :kind_of => String, :default => 'plugin.conf.erb'
 attribute :cookbook, :kind_of => String, :default => 'collectd'
